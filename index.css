@@ -26,6 +26,10 @@ body {
   font-size: 200%;
 }
 
+.pressed {
+  background-color: white;
+}
+
 footer {
   position: absolute;
   bottom: 0;
